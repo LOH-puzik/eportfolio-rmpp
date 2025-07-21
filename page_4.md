@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 Readings and Key Takeaways
-==========================================================
+=========================================================
 
 This section summarizes the foundational knowledge gained from core texts and formative activities.
 
