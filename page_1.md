@@ -1,7 +1,6 @@
 ---
 title: Collaborative Discussions
 layout: default 
-nav_order: 1
 ---
 
 Collaborative Learning Discussions
