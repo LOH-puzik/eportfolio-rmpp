@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 Collaborative Learning Discussions
---------------------------------------------------------
+==========================================================
 
 This activity was a formative discussion focused on the **ethical, legal, and societal challenges of predictive policing**. The work demonstrates an ability to engage with a complex socio-technical issue, apply ethical frameworks, and synthesize arguments from peers into a coherent summary.
 
