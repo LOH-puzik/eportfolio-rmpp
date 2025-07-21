@@ -3,10 +3,9 @@ title: Literature Review
 layout: default 
 nav_order: 3
 ---
-----------------------------------------------------
 
 Literature Review (Big Data Adoption in Finance)
-------------------------------------------------
+==========================================================
 
 This literature review is a substantial piece of academic work that provides the foundation for the subsequent research proposal. Its purpose was to systematically investigate the challenges that established financial institutions face when trying to integrate modern **big data platforms** with their deeply embedded **legacy IT systems**.
 
