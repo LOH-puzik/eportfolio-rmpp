@@ -1,7 +1,7 @@
 ---
 title: Collaborative Discussions
 layout: default 
-nav_order: 2
+nav_order: 1
 ---
 
 Collaborative Learning Discussions
@@ -14,6 +14,3 @@ The core of the discussion involved a critical analysis of how predictive polici
 The summary shows an understanding of professional codes of conduct from bodies like the **ACM and BCS**, applying their principles of fairness and social responsibility to the problem. A key part of this work was the collaborative element, where insights from peers were integrated to enrich the analysis.
 
 Overall, this piece serves as evidence of critical thinking about the social impact of AI, demonstrating the essential professional skill of moving beyond technical implementation to consider and evaluate the broader ethical consequences of technology.
-
-----
-This portfolio was built using Jekyll and the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.
