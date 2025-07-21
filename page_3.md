@@ -3,7 +3,9 @@ title: Research Proposal Presentation
 layout: default 
 nav_order: 4
 ---
-------------------------------
+
+Research Proposal Presentation
+==========================================================
 
 This presentation translated the findings from the literature review into a formal and structured **research proposal**. The work demonstrates the ability to define a clear research problem, formulate precise research questions, and design a credible methodology to answer them.
 
