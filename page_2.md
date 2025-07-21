@@ -1,7 +1,7 @@
 ---
 title: Literature Review
 layout: default 
-nav_order: 3
+nav_order: 2
 ---
 
 Literature Review (Big Data Adoption in Finance)
