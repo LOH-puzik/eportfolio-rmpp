@@ -3,10 +3,9 @@ title: Readings & Takeaways
 layout: default 
 nav_order: 5
 ---
--------------------------------------------------------
 
 Readings and Key Takeaways
---------------------------
+==========================================================
 
 This section summarizes the foundational knowledge gained from core texts and formative activities.
 
