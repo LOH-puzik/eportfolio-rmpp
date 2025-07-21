@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Reflective Piece
 layout: default
 nav_order: 1
 ---
