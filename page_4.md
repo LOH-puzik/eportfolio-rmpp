@@ -1,7 +1,7 @@
 ---
 title: Readings & Takeaways
 layout: default 
-nav_order: 5
+nav_order: 4
 ---
 
 Readings and Key Takeaways
